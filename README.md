@@ -6,6 +6,7 @@
 
 
 欢迎fork和star
-| 项目                                                         | 描述                                                         |
-| android mvvm架构 | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social) |
-| 数据缓存离线加载框架 | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social) |
+项目 | star数量
+---|---
+android mvvm架构 | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social)
+数据缓存离线加载框架 | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social)
