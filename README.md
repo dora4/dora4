@@ -1,6 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
-至今总访问量 <img src="https://visitor-badge.glitch.me/badge?page_id=dora4.dora4"/>，欢迎fork和star
+至今总访问量 <img src="https://visitor-badge.glitch.me/badge?page_id=dora4.dora4"/>，如果项目对你有帮助，不妨给我一个🌟吧！
 
 
 项目 |  链接  |  star数量
