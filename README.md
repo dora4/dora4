@@ -1,5 +1,4 @@
-![@dora4](https://avatars.githubusercontent.com/u/71242257?s=96&v=4)
-<img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="1000"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
 访问量<img src="https://visitor-badge.glitch.me/badge?page_id=dora4.dora4"/>，欢迎fork和star
 
