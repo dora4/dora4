@@ -1,7 +1,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
-至今总访问量 <img src="https://visitor-badge.glitch.me/badge?page_id=dora4.dora4"/>，如果项目对你有帮助，不妨给我一个🌟吧！
+If these projects are helpful for you, you can give me a 🌟！
 
+dora: Core and basic library for Android.
+dcache: Data Layer.
+dview: UI Layer.
+
+Get a sneak peek into Dora's framework roadmap, you can see issues.
 
 项目 |  链接  |  star数量
 ---|---|---
