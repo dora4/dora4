@@ -8,7 +8,8 @@ dcache: Data Layer.
 
 dview: UI Layer.
 
-Get a sneak peek into Dora's framework roadmap, you can see issues.
+Get a sneak peek into Dora's framework roadmap, you can see issues. If you have any questions or feedback about the roadmap or the items on it,
+your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's ID is [dorachat], http://dorachat.com.
 
 项目 |  链接  |  star数量
 ---|---|---
