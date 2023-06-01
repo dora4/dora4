@@ -23,3 +23,4 @@ dora-arouter-support | https://github.com/dora4/dora-arouter-support | ![GitHub 
 数据层（示例） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social)
 dcache-room-support | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social)
 dcache-greendao-support | https://github.com/dora4/dcache-greendao-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-greendao-support?style=social)
+dview-titlebar | https://github.com/dora4/dview-titlebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-titlebar?style=social)
