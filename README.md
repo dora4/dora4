@@ -15,8 +15,8 @@ your can send an email to dora924666990@gmail.com or contact me by Dora Chat App
 ---|---|---
 基础架构MVVM | https://github.com/dora4/dora | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social)
 基础架构MVVM（示例） | https://github.com/dora4/dora_samples | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora_samples?style=social)
-Dora框架的IDE插件  | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social)
-Dora框架的IDE代码模板  | https://github.com/dora4/dora-idea-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-idea-template?style=social)
+MVVM IDE插件  | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social)
+MVVM IDE模板  | https://github.com/dora4/dora-idea-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-idea-template?style=social)
 dora-eventbus-support | https://github.com/dora4/dora-eventbus-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-eventbus-support?style=social)
 dora-arouter-support | https://github.com/dora4/dora-arouter-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-arouter-support?style=social)
 数据层 | https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social)
