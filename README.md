@@ -27,3 +27,4 @@ dview-titlebar | https://github.com/dora4/dview-titlebar | ![GitHub Repo stars](
 dview-toggle-button | https://github.com/dora4/dview-toggle-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-toggle-button?style=social)
 dview-avatar | https://github.com/dora4/dview-avatar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-avatar?style=social)
 dview-clear-edittext | https://github.com/dora4/dview-clear-edittext | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-clear-edittext?style=social)
+dview-progress-view | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social)
