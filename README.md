@@ -26,5 +26,6 @@ dcache-greendao-support | https://github.com/dora4/dcache-greendao-support | ![G
 dview-titlebar | https://github.com/dora4/dview-titlebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-titlebar?style=social)
 dview-toggle-button | https://github.com/dora4/dview-toggle-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-toggle-button?style=social)
 dview-avatar | https://github.com/dora4/dview-avatar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-avatar?style=social)
+dview-bottom-dialog | https://github.com/dora4/dview-bottom-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-bottom-dialog?style=social)
 dview-clear-edittext | https://github.com/dora4/dview-clear-edittext | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-clear-edittext?style=social)
 dview-progress-view | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social)
