@@ -30,3 +30,4 @@ dview-bottom-dialog | https://github.com/dora4/dview-bottom-dialog | ![GitHub Re
 dview-clear-edittext | https://github.com/dora4/dview-clear-edittext | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-clear-edittext?style=social)
 dview-progress-view | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social)
 dview-alert-dialog | https://github.com/dora4/dview-alert-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-alert-dialog?style=social)
+dview-loading-dialog | https://github.com/dora4/dview-loading-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-loading-dialog?style=social)
