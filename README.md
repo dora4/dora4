@@ -1,3 +1,5 @@
+[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dora,dora4/dcache-android&type=Date)](https://star-history.com/#dora4/dora&dora4/dcache-android&Date)
+
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
 If these projects are helpful for you, you can give me a 🌟！
