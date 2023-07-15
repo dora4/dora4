@@ -38,3 +38,5 @@ dview-clear-edittext | https://github.com/dora4/dview-clear-edittext | ![GitHub 
 dview-progress-view | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social)
 dview-alert-dialog | https://github.com/dora4/dview-alert-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-alert-dialog?style=social)
 dview-loading-dialog | https://github.com/dora4/dview-loading-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-loading-dialog?style=social)
+dview-colors | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
+dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
