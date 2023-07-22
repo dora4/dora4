@@ -26,6 +26,7 @@ MVVM IDE模板  | https://github.com/dora4/dora-idea-template | ![GitHub Repo st
 dora-eventbus-support | https://github.com/dora4/dora-eventbus-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-eventbus-support?style=social)
 dora-arouter-support | https://github.com/dora4/dora-arouter-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-arouter-support?style=social)
 dora-apollo-support | https://github.com/dora4/dora-apollo-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-apollo-support?style=social)
+dora-pgyer-support | https://github.com/dora4/dora-pgyer-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-pgyer-support?style=social)
 数据层 | https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social)
 数据层（示例） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social)
 dcache-room-support | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social)
