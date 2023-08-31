@@ -12,7 +12,10 @@ dcache: Data Layer.
 
 dview: UI Layer.
 
-[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dora,dora4/dcache-android&type=Date)](https://star-history.com/#dora4/dora&dora4/dcache-android&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dora,dora4/dcache-android,dora4/dview-skins&type=Date)](https://star-history.com/#dora4/dora&dora4/dcache-android&dora4/dview-skins&Date)
+
 
 Get a sneak peek into Dora's framework roadmap, you can see issues. If you have any questions or feedback about the roadmap or the items on it,
 your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's ID is [dorachat], https://dorachat.com.
