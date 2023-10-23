@@ -4,8 +4,6 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
-![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
-
 If these projects are helpful for you, you can give me a 🌟！
 
 dora: Core and basic library for Android.
@@ -52,3 +50,5 @@ dview-loading-dialog | https://github.com/dora4/dview-loading-dialog | ![GitHub 
 dview-empty-layout | https://github.com/dora4/dview-empty-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-empty-layout?style=social)
 dview-colors | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
+
+![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
