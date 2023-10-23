@@ -4,6 +4,8 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
+![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
+
 If these projects are helpful for you, you can give me a 🌟！
 
 dora: Core and basic library for Android.
