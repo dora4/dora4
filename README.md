@@ -49,6 +49,7 @@ dview-progress-view | https://github.com/dora4/dview-progress-view | ![GitHub Re
 dview-alert-dialog | https://github.com/dora4/dview-alert-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-alert-dialog?style=social)
 dview-loading-dialog | https://github.com/dora4/dview-loading-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-loading-dialog?style=social)
 dview-empty-layout | https://github.com/dora4/dview-empty-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-empty-layout?style=social)
+dview-flexible-scrollview | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social)
 dview-colors | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
 
