@@ -22,10 +22,11 @@ your can send an email to dora924666990@gmail.com or contact me by Dora Chat App
 
 项目 |  链接  |  star数量
 ---|---|---
+Dora全家桶介绍 | https://github.com/dora4/dora-doc-react | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-doc-react?style=social)
 基础架构MVVM | https://github.com/dora4/dora | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social)
 基础架构MVVM（使用教程） | https://github.com/dora4/dora_samples | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora_samples?style=social)
 基础架构MVVM（实战项目） | https://github.com/dora4/DoraMusic | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraMusic?style=social)
-MVVM IDE插件 🌟   | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social)
+MVVM IDE插件  | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social)
 MVVM IDE模板  | https://github.com/dora4/dora-idea-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-idea-template?style=social)
 dora-firebase-support | https://github.com/dora4/dora-firebase-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-firebase-support?style=social)
 dora-eventbus-support | https://github.com/dora4/dora-eventbus-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-eventbus-support?style=social)
