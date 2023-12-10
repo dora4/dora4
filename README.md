@@ -51,8 +51,8 @@ dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https:
 
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
-![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dora4&layout=compact)
-
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
 If these projects are helpful for you, you can give me a 🌟！
+
+![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dora4&layout=compact)
