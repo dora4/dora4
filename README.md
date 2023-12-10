@@ -1,3 +1,5 @@
+![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
+
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
 dora: Core and basic library for Android.
@@ -48,8 +50,6 @@ dview-empty-layout | https://github.com/dora4/dview-empty-layout | ![GitHub Repo
 dview-flexible-scrollview | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social)
 dview-colors | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
-
-![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
