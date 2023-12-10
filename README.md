@@ -1,7 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
-![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dora4&layout=compact)
-
 dora: Core and basic library for Android.
 
 dcache: Data Layer.
@@ -52,6 +50,8 @@ dview-colors | https://github.com/dora4/dview-colors | ![GitHub Repo stars](http
 dview-skins | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
 
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
+
+![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dora4&layout=compact)
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
