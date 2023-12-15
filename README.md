@@ -2,11 +2,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
 
-**dora**: Core and basic library for Android.
+**dora**: core and basic library for android.
 
-**dcache**: Data Layer.
+**dcache**: data layer.
 
-**dview**: UI Layer.
+**dview**: ui layer.
 
 ## Star History
 
