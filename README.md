@@ -10,8 +10,8 @@
 
 ## Star History
 
-[[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dora,dora4/dcache-android,dora4/dview-skins&type=Date)](https://star-history.com/#dora4/dora&dora4/dcache-android&dora4/dview-skins&Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&Date)
-
+[[[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dora,dora4/dcache-android,dora4/dview-skins&type=Date)](https://star-history.com/#dora4/dora&dora4/dcache-android&dora4/dview-skins&Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&Date)
+](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&Date)
 
 Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
 your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's user id is [dorachat], https://dorachat.com.
