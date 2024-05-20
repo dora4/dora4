@@ -40,6 +40,7 @@ OSS扩展包 | https://github.com/dora4/dora-oss-support | ![GitHub Repo stars](
 ORM Room支持包 | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social)
 ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-greendao-support?style=social)
 标题栏 | https://github.com/dora4/dview-titlebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-titlebar?style=social)
+菜单面板 | https://github.com/dora4/dview-menu-panel | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-menu-panel?style=social)
 滑块按钮 | https://github.com/dora4/dview-toggle-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-toggle-button?style=social)
 头像裁剪 | https://github.com/dora4/dview-avatar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-avatar?style=social)
 底部弹窗 | https://github.com/dora4/dview-bottom-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-bottom-dialog?style=social)
