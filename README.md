@@ -6,11 +6,6 @@
 
 **dview**: ui layer.
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
-</p>
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dora4/dcache-android,dora4/dview-skins,dora4/dora-studio-plugin,dora4/dora&type=Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&dora4/dora&Date)
@@ -56,6 +51,12 @@ ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![Git
 回弹效果容器 | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social)
 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
+</p>
+
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
