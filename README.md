@@ -11,13 +11,14 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=dora4/dcache-android,dora4/dview-skins,dora4/dora-studio-plugin,dora4/dora&type=Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&dora4/dora&Date)
 
 
-Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
-your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's user id is [dorachat], https://dorachat.com.
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
 </p>
+
+Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
+your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's user id is [dorachat], https://dorachat.com.
+
 
 项目 |  链接  |  star数量
 ---|---|---
