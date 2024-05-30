@@ -1,9 +1,5 @@
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
-</div>
-
 **dora**: core and basic library for android.
 
 **dcache**: data layer.
@@ -62,5 +58,9 @@ ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![Git
 Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
+</div>
 
 If these projects are helpful for you, you can give me a 🌟！
