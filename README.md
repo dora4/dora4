@@ -59,4 +59,6 @@ Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https:
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
-If these projects are helpful for you, you can give me a 🌟！<img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
+
+If these projects are helpful for you, you can give me a 🌟！
