@@ -1,11 +1,5 @@
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=dora4&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -70,4 +64,7 @@ Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https:
 
 If these projects are helpful for you, you can give me a 🌟！
 
-![top-langs](https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dora4&layout=compact)
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
+</p>
