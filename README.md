@@ -11,7 +11,7 @@
 </p>
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 **dora**: core and basic library for android.
