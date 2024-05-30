@@ -1,6 +1,10 @@
 ![avatar](https://developer.android.google.cn/images/mad/mad-hero.svg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=dora4&count_private=true" width="450"/>
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
 **dora**: core and basic library for android.
 
