@@ -4,16 +4,16 @@
   <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
-</p>
-
 **dora**: core and basic library for android.
 
 **dcache**: data layer.
 
 **dview**: ui layer.
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact">
+</p>
 
 ## Star History
 
