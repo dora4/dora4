@@ -10,6 +10,10 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=dora4&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
+
 **dora**: core and basic library for android.
 
 **dcache**: data layer.
