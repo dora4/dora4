@@ -13,10 +13,6 @@
 Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
 your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's user id is [dorachat], https://dorachat.com.
 
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
-</p>
-
 项目 |  链接  |  star数量
 ---|---|---
 Dora全家桶介绍 | https://github.com/dora4/dora-doc-react | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-doc-react?style=social)
@@ -57,6 +53,10 @@ ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![Git
 回弹效果容器 | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social)
 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
+
+<p align="left">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
+</p>
 
 ## Star History
 
