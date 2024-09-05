@@ -6,7 +6,7 @@
 
 **dview**: ui layer.
 
-<p aligh='center' margin='30'>
+<p aligh='center' margin-top='60'>
     <img width="640" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
 </p>
 
