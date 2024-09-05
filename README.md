@@ -6,8 +6,8 @@
 
 **dview**: ui layer.
 
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
-  <img width="360" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
+<img width="360" height="200" src="https://github-readme-stats.vercel.app/api/toplangs/username=dora4&size_weight=0.15&count_weight=0.5&layout=compact&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
 
 
 Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
