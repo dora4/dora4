@@ -51,6 +51,7 @@ ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![Git
 空态布局 | https://github.com/dora4/dview-empty-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-empty-layout?style=social)
 下拉刷新 | https://github.com/dora4/dview-swipe-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-layout?style=social)
 回弹效果容器 | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social)
+文件浏览器 | https://github.com/dora4/dview-file-browser | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-file-browser?style=social)
 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
 
