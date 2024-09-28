@@ -21,7 +21,6 @@ Dora全家桶架构路线图 | https://github.com/dora4/dora-architect-roadmap |
 基础架构MVVM（基础库）| https://github.com/dora4/dora | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social)
 基础架构MVVM（使用教程） | https://github.com/dora4/dora_samples | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora_samples?style=social)
 基础架构MVVM（实战项目） | https://github.com/dora4/DoraMusic | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraMusic?style=social)
-波场钱包（DoraTron） | https://github.com/dora4/doratron-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/doratron-android?style=social)
 Firebase扩展包 | https://github.com/dora4/dora-firebase-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-firebase-support?style=social)
 IronSource扩展包 | https://github.com/dora4/dora-ironsource-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-ironsource-support?style=social)
 EventBus扩展包 | https://github.com/dora4/dora-eventbus-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-eventbus-support?style=social)
