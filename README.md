@@ -55,6 +55,7 @@ ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![Git
 多行单选组 | https://github.com/dora4/dview-radio-group | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-radio-group?style=social)
 进度按钮 | https://github.com/dora4/dview-progress-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-button?style=social)
 选项卡 | https://github.com/dora4/dview-tabbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-tabbar?style=social)
+圆角按钮 | https://github.com/dora4/dview-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-button?style=social)
 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social)
 Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social)
 
