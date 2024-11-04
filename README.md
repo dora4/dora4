@@ -32,6 +32,7 @@ Glide扩展包 | https://github.com/dora4/dora-glide-support | ![GitHub Repo sta
 Dagger扩展包 | https://github.com/dora4/dora-dagger-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-dagger-support?style=social)
 刷新布局扩展包 | https://github.com/dora4/dora-srl-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-srl-support?style=social)
 OSS扩展包 | https://github.com/dora4/dora-oss-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-oss-support?style=social)
+朵拉支付SDK | https://github.com/dora4/dora-walletconnect-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-walletconnect-support?style=social)
 数据层（框架）| https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social)
 数据层（使用教程） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social)
 Solr 支持包 | https://github.com/dora4/dcache-solr-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-solr-support?style=social)
