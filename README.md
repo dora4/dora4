@@ -13,8 +13,6 @@
 Get a sneak peek into Dora's framework roadmap, you can see https://github.com/dora4/dora-architect-roadmap. If you have any questions or feedback about the roadmap or the items on it,
 your can send an email to dora924666990@gmail.com or contact me by Dora Chat App, my dorachat's user id is [dorachat], https://dorachat.com.
 
-以下是增加了“评级”列的表格：
-
 | 项目 | 链接 | star数量 | 评级 |
 | --- | --- | --- | --- |
 | Dora全家桶介绍 | https://github.com/dora4/dora-doc-react | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-doc-react?style=social) | C |
