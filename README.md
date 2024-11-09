@@ -54,9 +54,7 @@ your can send an email to dora924666990@gmail.com or contact me by Dora Chat App
 | 下拉刷新 | https://github.com/dora4/dview-swipe-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-layout?style=social) | A |
 | 回弹效果容器 | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social) | B+ |
 | 文件浏览器 | https://github.com/dora4/dview-file-browser | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-file-browser?style=social) | B- |
-| 流式布局 | https://github.com/dora4/dview-flow-layout | !
-
-[GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flow-layout?style=social) | B+ |
+| 流式布局 | https://github.com/dora4/dview-flow-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flow-layout?style=social) | B+ |
 | 多行单选组 | https://github.com/dora4/dview-radio-group | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-radio-group?style=social) | A- |
 | 进度按钮 | https://github.com/dora4/dview-progress-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-button?style=social) | B+ |
 | 选项卡 | https://github.com/dora4/dview-tabbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-tabbar?style=social) | A- |
