@@ -60,8 +60,6 @@ your can send an email to dora924666990@gmail.com or contact me by Dora Chat App
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | B |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | A+ |
 
-（注：此评级仅供参考，可根据项目的重要性、受欢迎程度等因素进行调整。）
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dora4/dcache-android,dora4/dview-skins,dora4/dora-studio-plugin,dora4/dora&type=Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&dora4/dora&Date)
