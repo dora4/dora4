@@ -57,7 +57,7 @@
 | 侧滑删除菜单 | https://github.com/dora4/dview-swipe-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-menu?style=social) | B |
 | 购物车加减商品 | https://github.com/dora4/dview-addsub-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-addsub-view?style=social) | B |
 | 下拉面板布局 | https://github.com/dora4/dview-dropdown-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-dropdown-layout?style=social) | B |
-| 自动隐藏文字 | https://github.com/dora4/dview-text-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-text?style=social) | B |
+| 自动隐藏文字 | https://github.com/dora4/dview-text-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-text-view?style=social) | B |
 | 折叠布局 | https://github.com/dora4/dview-collapsing-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-collapsing-layout?style=social) | B |
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | B |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | A+ |
