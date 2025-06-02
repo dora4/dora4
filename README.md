@@ -59,6 +59,16 @@
 | 下拉面板布局 | https://github.com/dora4/dview-dropdown-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-dropdown-layout?style=social) | B |
 | 自动隐藏文字 | https://github.com/dora4/dview-text-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-text-view?style=social) | B |
 | 折叠布局 | https://github.com/dora4/dview-collapsing-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-collapsing-layout?style=social) | B |
+| 悬浮菜单 | https://github.com/dora4/dview-floating-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-floating-menu?style=social) | B |
+| 图标文字控件 | https://github.com/dora4/dview-iconlabel-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-iconlabel-view?style=social) | B |
+| 列表工具 | https://github.com/dora4/dview-list-helper | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-list-helper?style=social) | B |
+| 网格控件 | https://github.com/dora4/dview-gridview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-gridview?style=social) | B |
+| 颜色选择控件 | https://github.com/dora4/dview-color-picker | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-color-picker?style=social) | B |
+| 双指缩放控件 | https://github.com/dora4/dview-pinchzoom-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pinchzoom-layout?style=social) | B |
+| 闪烁炫光控件 | https://github.com/dora4/dview-flash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flash-view?style=social) | B |
+| 站内信红点 | https://github.com/dora4/dview-badge-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-badge-view?style=social) | B |
+| 图表引擎 | https://github.com/dora4/dview-charts | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-charts?style=social) | B |
+| 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | B |
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | B |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | A+ |
 
