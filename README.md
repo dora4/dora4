@@ -71,6 +71,7 @@
 | 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | B |
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | B |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | A+ |
+| 自定义控件模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | B |
 
 ## Star History
 
