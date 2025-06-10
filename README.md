@@ -58,7 +58,7 @@
 | 购物车增减商品 | https://github.com/dora4/dview-addsub-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-addsub-view?style=social) | A- |
 | 下拉面板布局 | https://github.com/dora4/dview-dropdown-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-dropdown-layout?style=social) | A- |
 | 自动隐藏文字 | https://github.com/dora4/dview-text-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-text-view?style=social) | B+ |
-| 折叠布局 | https://github.com/dora4/dview-collapsing-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-collapsing-layout?style=social) | B |
+| 折叠布局 | https://github.com/dora4/dview-collapsing-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-collapsing-layout?style=social) | B+ |
 | 悬浮菜单 | https://github.com/dora4/dview-floating-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-floating-menu?style=social) | A- |
 | 图标文字控件 | https://github.com/dora4/dview-iconlabel-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-iconlabel-view?style=social) | B+ |
 | 列表工具 | https://github.com/dora4/dview-list-helper | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-list-helper?style=social) | B |
