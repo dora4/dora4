@@ -78,9 +78,10 @@
 | 均衡器控件 | https://github.com/dora4/dview-equalizer-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-equalizer-view?style=social) | B- |
 | 唱片旋转控件 | https://github.com/dora4/dview-rotate-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-rotate-view?style=social) | A- |
 | 九宫格锁屏 | https://github.com/dora4/dview-pattern-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pattern-view?style=social) | B |
-| 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | B+ |
 | 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | A- |
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | A- |
+| 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | B+ |
+| 图表引擎 | https://github.com/dora4/dview-charts | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-charts?style=social) | A |
 | 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | B |
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | B |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | A+ |
