@@ -30,7 +30,6 @@
 | 朵拉支付SDK | https://github.com/dora4/dora-walletconnect-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-walletconnect-support?style=social) | A- |
 | 数据层（框架） | https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social) | S |
 | 数据层（使用教程） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social) | A |
-| Solr 支持包 | https://github.com/dora4/dcache-solr-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-solr-support?style=social) | B+ |
 | ORM Room支持包 | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social) | A+ |
 | ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-greendao-support?style=social) | B- |
 | 标题栏 | https://github.com/dora4/dview-titlebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-titlebar?style=social) | A |
