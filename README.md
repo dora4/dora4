@@ -10,7 +10,7 @@
     <img width="640" height="200" src="https://github-readme-stats.vercel.app/api?username=dora4&show_icons=true&title_color=04d5d5&icon_color=04d5d5&border_color=04d5d5">
 </p><br/>
 
-| 项目 | 链接 | Star | 最新版本 | 评级 |
+| 项目 | 链接 | Star | 版本 | 评级 |
 | --- | --- | --- | --- | --- |
 | 基础架构MVVM（IntelliJ IDEA插件） | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social) | ![Release](https://jitpack.io/v/dora4/dora-studio-plugin.svg) | A- |
 | 基础架构MVVM（基础库） | https://github.com/dora4/dora | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social) | ![Release](https://jitpack.io/v/dora4/dora.svg) | A+ |
