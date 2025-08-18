@@ -12,9 +12,9 @@
 
 | 项目 | 链接 | Star | 版本 | 评级 |
 | --- | --- | --- | --- | --- |
-| 基础架构MVVM（IntelliJ IDEA插件） | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social) | ![Release](https://jitpack.io/v/dora4/dora-studio-plugin.svg) | A- |
+| 基础架构MVVM（IntelliJ IDEA插件） | https://github.com/dora4/dora-studio-plugin | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-studio-plugin?style=social) | / | A- |
 | 基础架构MVVM（基础库） | https://github.com/dora4/dora | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora?style=social) | ![Release](https://jitpack.io/v/dora4/dora.svg) | A+ |
-| 基础架构MVVM（使用教程） | https://github.com/dora4/dora_samples | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora_samples?style=social) | ![Release](https://jitpack.io/v/dora4/dora_samples.svg) | A |
+| 基础架构MVVM（使用教程） | https://github.com/dora4/dora_samples | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora_samples?style=social) | / | A |
 | 基础架构MVVM（实战项目） | https://github.com/dora4/DoraMusic | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraMusic?style=social) | / | A- |
 | Firebase扩展包 | https://github.com/dora4/dora-firebase-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-firebase-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-firebase-support.svg) | A- |
 | IronSource扩展包 | https://github.com/dora4/dora-ironsource-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-ironsource-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-ironsource-support.svg) | A- |
