@@ -27,7 +27,7 @@
 | Dagger扩展包 | https://github.com/dora4/dora-dagger-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-dagger-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-dagger-support.svg) | A |
 | 刷新布局扩展包 | https://github.com/dora4/dora-srl-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-srl-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-srl-support.svg) | A |
 | OSS扩展包 | https://github.com/dora4/dora-oss-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-oss-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-oss-support.svg) | A- |
-| 朵拉支付SDK | https://github.com/dora4/dora-walletconnect-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-walletconnect-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-walletconnect-support.svg) | A- |
+| 朵拉支付SDK | https://github.com/dora4/dora-walletconnect-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-walletconnect-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-walletconnect-support.svg) | A |
 | 数据层（框架） | https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-android.svg) | S |
 | 数据层（使用教程） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social) | / | A |
 | ORM Room支持包 | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-room-support.svg) | A+ |
