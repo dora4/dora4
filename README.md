@@ -74,6 +74,7 @@
 | 底部导航 | https://github.com/dora4/dview-bottombar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-bottombar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-bottombar.svg) | A- |
 | 均衡器控件 | https://github.com/dora4/dview-equalizer-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-equalizer-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-equalizer-view.svg) | B- |
 | 唱片旋转控件 | https://github.com/dora4/dview-rotate-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-rotate-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-rotate-view.svg) | A- |
+| 卡券控件 | https://github.com/dora4/dview-coupon-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-coupon-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-coupon-view.svg) | A- |
 | 九宫格锁屏 | https://github.com/dora4/dview-pattern-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pattern-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pattern-view.svg) | B |
 | 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg) | A- |
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-sidebar.svg) | A- |
