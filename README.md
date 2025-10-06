@@ -80,8 +80,8 @@
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-sidebar.svg) | A- |
 | 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | ![Release](https://jitpack.io/v/dora4/dview-animator.svg) | B+ |
 | 图表引擎 | https://github.com/dora4/dview-charts | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-charts?style=social) | ![Release](https://jitpack.io/v/dora4/dview-charts.svg) | A |
-| 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drawables.svg) | B |
-| 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | ![Release](https://jitpack.io/v/dora4/dview-colors.svg) | B |
+| 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drawables.svg) | B+ |
+| 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | ![Release](https://jitpack.io/v/dora4/dview-colors.svg) | A- |
 | 常用图标支持 | https://github.com/dora4/dview-icons | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-icons?style=social) | ![Release](https://jitpack.io/v/dora4/dview-icons.svg) | A |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | ![Release](https://jitpack.io/v/dora4/dview-skins.svg) | A+ |
 | 自定义控件模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | ![Release](https://jitpack.io/v/dora4/dview-template.svg) | B |
