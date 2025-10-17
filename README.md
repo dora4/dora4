@@ -59,7 +59,7 @@
 | 悬浮菜单 | https://github.com/dora4/dview-floating-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-floating-menu?style=social) | ![Release](https://jitpack.io/v/dora4/dview-floating-menu.svg) | A- |
 | 图标文字控件 | https://github.com/dora4/dview-iconlabel-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-iconlabel-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-iconlabel-view.svg) | B+ |
 | 列表工具 | https://github.com/dora4/dview-list-helper | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-list-helper?style=social) | ![Release](https://jitpack.io/v/dora4/dview-list-helper.svg) | A- |
-| 网格控件 | https://github.com/dora4/dview-gridview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-gridview?style=social) | ![Release](https://jitpack.io/v/dora4/dview-gridview.svg) | A- |
+| 网格控件 | https://github.com/dora4/dview-gridview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-gridview?style=social) | ![Release](https://jitpack.io/v/dora4/dview-gridview.svg) | A |
 | 颜色选择控件 | https://github.com/dora4/dview-color-picker | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-color-picker?style=social) | ![Release](https://jitpack.io/v/dora4/dview-color-picker.svg) | B |
 | 双指缩放控件 | https://github.com/dora4/dview-pinchzoom-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pinchzoom-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pinchzoom-layout.svg) | A- |
 | 闪烁炫光控件 | https://github.com/dora4/dview-flash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flash-view.svg) | A- |
