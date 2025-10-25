@@ -79,6 +79,7 @@
 | 可折叠展开的内容 | https://github.com/dora4/dview-expandable-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-expandable-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-expandable-layout.svg) | A- |
 | 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg) | A- |
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-sidebar.svg) | A- |
+| 翻扑克牌控件 | https://github.com/dora4/dview-poker-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-poker-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-poker-view.svg) | B+ |
 | 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | ![Release](https://jitpack.io/v/dora4/dview-animator.svg) | B+ |
 | 图表引擎 | https://github.com/dora4/dview-charts | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-charts?style=social) | ![Release](https://jitpack.io/v/dora4/dview-charts.svg) | A |
 | 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drawables.svg) | A- |
