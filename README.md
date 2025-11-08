@@ -67,6 +67,7 @@
 | 表格控件 | https://github.com/dora4/dview-table-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-table-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-table-view.svg) | A- |
 | 启动页广告 | https://github.com/dora4/dview-splash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-splash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-splash-view.svg) | A- |
 | 指示器控件 | https://github.com/dora4/dview-indicator-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-indicator-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-indicator-view.svg) | A- |
+| 滑轮日期选择控件 | https://github.com/dora4/dview-wheel-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-wheel-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-wheel-view.svg) | A- |
 | 中奖播报控件 | https://github.com/dora4/dview-flipper-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flipper-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flipper-view.svg) | A |
 | 骨架屏加载 | https://github.com/dora4/dview-skeleton-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skeleton-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-skeleton-view.svg) | A |
 | 底部导航 | https://github.com/dora4/dview-bottombar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-bottombar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-bottombar.svg) | A- |
