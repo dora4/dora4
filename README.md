@@ -97,9 +97,6 @@
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
-![1](https://github.com/user-attachments/assets/080106a5-6247-47bb-ad3d-a469ff3f125b)
-
-
 <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=04d5d5" alt=""/>
 
 If these projects are helpful for you, you can give me a 🌟！
