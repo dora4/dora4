@@ -36,7 +36,6 @@
 | 头像裁剪 | https://github.com/dora4/dview-avatar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-avatar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-avatar.svg) | A- |
 | 点击清空文本框 | https://github.com/dora4/dview-clear-edittext | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-clear-edittext?style=social) | ![Release](https://jitpack.io/v/dora4/dview-clear-edittext.svg) | B+ |
 | 自动跳框文本框 | https://github.com/dora4/dview-next-edittext | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-next-edittext?style=social) | ![Release](https://jitpack.io/v/dora4/dview-next-edittext.svg) | B+ |
-| 动画进度条 | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progress-view.svg) | A- |
 | 底部弹窗 | https://github.com/dora4/dview-bottom-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-bottom-dialog?style=social) | ![Release](https://jitpack.io/v/dora4/dview-bottom-dialog.svg) | A |
 | 提示弹窗 | https://github.com/dora4/dview-alert-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-alert-dialog?style=social) | ![Release](https://jitpack.io/v/dora4/dview-alert-dialog.svg) | A |
 | 加载对话框 | https://github.com/dora4/dview-loading-dialog | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-loading-dialog?style=social) | ![Release](https://jitpack.io/v/dora4/dview-loading-dialog.svg) | A- |
@@ -47,6 +46,8 @@
 | 流式布局 | https://github.com/dora4/dview-flow-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flow-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flow-layout.svg) | A- |
 | 多行单选组 | https://github.com/dora4/dview-radio-group | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-radio-group?style=social) | ![Release](https://jitpack.io/v/dora4/dview-radio-group.svg) | A- |
 | 进度按钮 | https://github.com/dora4/dview-progress-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-button?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progress-button.svg) | B+ |
+| 动画进度条 | https://github.com/dora4/dview-progress-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progress-view.svg) | A- |
+| 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg) | A- |
 | 选项卡 | https://github.com/dora4/dview-tabbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-tabbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-tabbar.svg) | A- |
 | 圆角按钮 | https://github.com/dora4/dview-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-button?style=social) | ![Release](https://jitpack.io/v/dora4/dview-button.svg) | B+ |
 | 侧滑删除菜单 | https://github.com/dora4/dview-swipe-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-menu?style=social) | ![Release](https://jitpack.io/v/dora4/dview-swipe-menu.svg) | A- |
@@ -78,7 +79,6 @@
 | 九宫格锁屏 | https://github.com/dora4/dview-pattern-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pattern-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pattern-view.svg) | B |
 | 可折叠展开的内容 | https://github.com/dora4/dview-expandable-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-expandable-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-expandable-layout.svg) | A- |
 | 添加标记控件 | https://github.com/dora4/dview-mark-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-mark-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-mark-view.svg) | A- |
-| 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg) | A- |
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-sidebar.svg) | A- |
 | 翻扑克牌控件 | https://github.com/dora4/dview-poker-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-poker-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-poker-view.svg) | B+ |
 | 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | ![Release](https://jitpack.io/v/dora4/dview-animator.svg) | B+ |
