@@ -42,7 +42,6 @@
 | 空态布局 | https://github.com/dora4/dview-empty-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-empty-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-empty-layout.svg) | A |
 | 下拉刷新 | https://github.com/dora4/dview-swipe-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-swipe-layout.svg) | A |
 | 回弹效果容器 | https://github.com/dora4/dview-flexible-scrollview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flexible-scrollview?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flexible-scrollview.svg) | B+ |
-| 文件浏览器 | https://github.com/dora4/dview-file-browser | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-file-browser?style=social) | ![Release](https://jitpack.io/v/dora4/dview-file-browser.svg) | B- |
 | 流式布局 | https://github.com/dora4/dview-flow-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flow-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flow-layout.svg) | A- |
 | 多行单选组 | https://github.com/dora4/dview-radio-group | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-radio-group?style=social) | ![Release](https://jitpack.io/v/dora4/dview-radio-group.svg) | A- |
 | 进度按钮 | https://github.com/dora4/dview-progress-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progress-button?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progress-button.svg) | B+ |
@@ -65,7 +64,6 @@
 | 闪烁炫光控件 | https://github.com/dora4/dview-flash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flash-view.svg) | A- |
 | 站内信红点 | https://github.com/dora4/dview-badge-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-badge-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-badge-view.svg) | A- |
 | 视差动画欢迎页 | https://github.com/dora4/dview-parallax-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-parallax-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-parallax-layout.svg) | A- |
-| 翻书控件 | https://github.com/dora4/dview-book-pager | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-book-pager?style=social) | ![Release](https://jitpack.io/v/dora4/dview-book-pager.svg) | B |
 | 启动页广告 | https://github.com/dora4/dview-splash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-splash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-splash-view.svg) | A- |
 | 指示器控件 | https://github.com/dora4/dview-indicator-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-indicator-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-indicator-view.svg) | A- |
 | 滑轮日期选择控件 | https://github.com/dora4/dview-wheel-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-wheel-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-wheel-view.svg) | A- |
