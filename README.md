@@ -82,7 +82,7 @@
 | 常用颜色支持 | https://github.com/dora4/dview-colors | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-colors?style=social) | ![Release](https://jitpack.io/v/dora4/dview-colors.svg) | A- |
 | 常用图标支持 | https://github.com/dora4/dview-icons | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-icons?style=social) | ![Release](https://jitpack.io/v/dora4/dview-icons.svg) | A |
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | ![Release](https://jitpack.io/v/dora4/dview-skins.svg) | A+ |
-| 自定义控件模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | ![Release](https://jitpack.io/v/dora4/dview-template.svg) | B |
+| 自定义控件模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | ![Release](https://jitpack.io/v/dora4/dview-template.svg) | A- |
 
 ## Star History
 
