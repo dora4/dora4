@@ -22,6 +22,7 @@
 | 朵拉支付SDK | https://github.com/dora4/dora-walletconnect-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-walletconnect-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-walletconnect-support.svg) | A+ |
 | Glide扩展包 | https://github.com/dora4/dora-glide-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-glide-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-glide-support.svg) | B |
 | 万能适配器扩展包 | https://github.com/dora4/dora-brvah-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-brvah-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-brvah-support.svg) | A |
+| App前后台判断扩展包 | https://github.com/dora4/dora-app-visibility-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dora-app-visibility-support?style=social) | ![Release](https://jitpack.io/v/dora4/dora-app-visibility-support.svg) | A |
 | 数据层（框架） | https://github.com/dora4/dcache-android | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-android?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-android.svg) | S |
 | 数据层（使用教程） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social) | / | A |
 | ORM Room支持包 | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-room-support.svg) | A+ |
