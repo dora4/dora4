@@ -57,7 +57,7 @@
 | 列表工具 | https://github.com/dora4/dview-list-helper | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-list-helper?style=social) | ![Release](https://jitpack.io/v/dora4/dview-list-helper.svg) | A- |
 | 网格控件 | https://github.com/dora4/dview-gridview | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-gridview?style=social) | ![Release](https://jitpack.io/v/dora4/dview-gridview.svg) | A |
 | 表格控件 | https://github.com/dora4/dview-table-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-table-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-table-view.svg) | A- |
-| 颜色选择控件 | https://github.com/dora4/dview-color-picker | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-color-picker?style=social) | ![Release](https://jitpack.io/v/dora4/dview-color-picker.svg) | B |
+| 颜色选择控件 | https://github.com/dora4/dview-color-picker | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-color-picker?style=social) | ![Release](https://jitpack.io/v/dora4/dview-color-picker.svg) | B+ |
 | 双指缩放控件 | https://github.com/dora4/dview-pinchzoom-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pinchzoom-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pinchzoom-layout.svg) | A- |
 | 闪烁炫光控件 | https://github.com/dora4/dview-flash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flash-view.svg) | A- |
 | 站内信红点 | https://github.com/dora4/dview-badge-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-badge-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-badge-view.svg) | A- |
