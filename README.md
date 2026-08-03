@@ -62,6 +62,7 @@
 | 双指缩放控件 | https://github.com/dora4/dview-pinchzoom-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pinchzoom-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pinchzoom-layout.svg) | A- |
 | 闪烁炫光控件 | https://github.com/dora4/dview-flash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-flash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-flash-view.svg) | A- |
 | 站内信红点 | https://github.com/dora4/dview-badge-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-badge-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-badge-view.svg) | A- |
+| 放大镜控件 | https://github.com/dora4/dview-magnifier-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-magnifier-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-magnifier-view.svg) | A- |
 | 呼吸灯控件 | https://github.com/dora4/dview-breathing-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-breathing-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-breathing-view.svg) | B+ |
 | 掉落道具控件 | https://github.com/dora4/dview-drop-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drop-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drop-view.svg) | A- |
 | 时间轴控件 | https://github.com/dora4/dview-timeline-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-timeline-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-timeline-view.svg) | A- |
