@@ -49,6 +49,7 @@
 | 选项卡 | https://github.com/dora4/dview-tabbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-tabbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-tabbar.svg) | A- |
 | 圆角按钮 | https://github.com/dora4/dview-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-button?style=social) | ![Release](https://jitpack.io/v/dora4/dview-button.svg) | B+ |
 | 侧滑删除菜单 | https://github.com/dora4/dview-swipe-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-menu?style=social) | ![Release](https://jitpack.io/v/dora4/dview-swipe-menu.svg) | A- |
+| 刮刮卡 | https://github.com/dora4/dview-scratch-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-scratch-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-scratch-view.svg) | A- |
 | 购物车增减商品 | https://github.com/dora4/dview-addsub-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-addsub-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-addsub-view.svg) | A- |
 | 下拉面板布局 | https://github.com/dora4/dview-dropdown-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-dropdown-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-dropdown-layout.svg) | A- |
 | 自动隐藏文字 | https://github.com/dora4/dview-text-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-text-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-text-view.svg) | B+ |
