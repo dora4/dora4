@@ -64,6 +64,7 @@
 | 站内信红点 | https://github.com/dora4/dview-badge-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-badge-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-badge-view.svg) | A- |
 | 呼吸灯控件 | https://github.com/dora4/dview-breathing-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-breathing-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-breathing-view.svg) | B+ |
 | 掉落道具控件 | https://github.com/dora4/dview-drop-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drop-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drop-view.svg) | A- |
+| 时间轴控件 | https://github.com/dora4/dview-timeline-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-timeline-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-timeline-view.svg) | A- |
 | 视差动画欢迎页 | https://github.com/dora4/dview-parallax-layout | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-parallax-layout?style=social) | ![Release](https://jitpack.io/v/dora4/dview-parallax-layout.svg) | A- |
 | 启动页广告 | https://github.com/dora4/dview-splash-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-splash-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-splash-view.svg) | A- |
 | 指示器控件 | https://github.com/dora4/dview-indicator-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-indicator-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-indicator-view.svg) | A- |
