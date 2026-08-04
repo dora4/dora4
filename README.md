@@ -48,6 +48,7 @@
 | 进度条 | https://github.com/dora4/dview-progressbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-progressbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-progressbar.svg) | A- |
 | 选项卡 | https://github.com/dora4/dview-tabbar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-tabbar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-tabbar.svg) | A- |
 | 圆角按钮 | https://github.com/dora4/dview-button | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-button?style=social) | ![Release](https://jitpack.io/v/dora4/dview-button.svg) | B+ |
+| 日历控件 | https://github.com/dora4/dview-calendar-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-calendar-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-calendar-view.svg) | B- |
 | 侧滑删除菜单 | https://github.com/dora4/dview-swipe-menu | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-swipe-menu?style=social) | ![Release](https://jitpack.io/v/dora4/dview-swipe-menu.svg) | A- |
 | 刮刮卡 | https://github.com/dora4/dview-scratch-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-scratch-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-scratch-view.svg) | A- |
 | 购物车增减商品 | https://github.com/dora4/dview-addsub-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-addsub-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-addsub-view.svg) | A- |
