@@ -81,6 +81,7 @@
 | 声波波动控件 | https://github.com/dora4/dview-wave-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-wave-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-wave-view.svg) | A |
 | 宠物互动控件 | https://github.com/dora4/dview-pet-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-pet-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-pet-view.svg) | A- |
 | 星级控件 | https://github.com/dora4/dview-rating-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-rating-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-rating-view.svg) | A- |
+| 签到控件 | https://github.com/dora4/dview-checkin-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-checkin-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-checkin-view.svg) | A- |
 | 手写签名控件 | https://github.com/dora4/dview-signature-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-signature-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-signature-view.svg) | A- |
 | 横幅广告控件 | https://github.com/dora4/dview-banner-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-banner-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-banner-view.svg) | A- |
 | 卡券控件 | https://github.com/dora4/dview-coupon-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-coupon-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-coupon-view.svg) | A- |
