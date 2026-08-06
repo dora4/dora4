@@ -93,6 +93,7 @@
 | 添加标记控件 | https://github.com/dora4/dview-mark-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-mark-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-mark-view.svg) | A- |
 | 字母导航侧边栏 | https://github.com/dora4/dview-sidebar | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-sidebar?style=social) | ![Release](https://jitpack.io/v/dora4/dview-sidebar.svg) | A- |
 | 翻扑克牌控件 | https://github.com/dora4/dview-poker-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-poker-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-poker-view.svg) | B+ |
+| 画廊控件 | https://github.com/dora4/dview-gallery-view | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-gallery-view?style=social) | ![Release](https://jitpack.io/v/dora4/dview-gallery-view.svg) | A- |
 | 动画引擎 | https://github.com/dora4/dview-animator | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-animator?style=social) | ![Release](https://jitpack.io/v/dora4/dview-animator.svg) | B+ |
 | 图表引擎 | https://github.com/dora4/dview-charts | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-charts?style=social) | ![Release](https://jitpack.io/v/dora4/dview-charts.svg) | A |
 | 常用图形支持 | https://github.com/dora4/dview-drawables | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-drawables?style=social) | ![Release](https://jitpack.io/v/dora4/dview-drawables.svg) | A- |
