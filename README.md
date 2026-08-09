@@ -102,11 +102,6 @@
 | Skins换肤 | https://github.com/dora4/dview-skins | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-skins?style=social) | ![Release](https://jitpack.io/v/dora4/dview-skins.svg) | A+ |
 | 自定义控件模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | ![Release](https://jitpack.io/v/dora4/dview-template.svg) | A- |
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=dora4/dcache-android,dora4/dview-skins,dora4/dora-studio-plugin,dora4/dora&type=Date)](https://star-history.com/#dora4/dcache-android&dora4/dview-skins&dora4/dora-studio-plugin&dora4/dora&Date)
-
-
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
 <img src="https://komarev.com/ghpvc/?username=dora4&style=for-the-badge&color=04d5d5" alt=""/>
