@@ -27,8 +27,7 @@
 | 数据层（使用教程） | https://github.com/dora4/DoraCacheSample | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/DoraCacheSample?style=social) | / | A |
 | ORM Room支持包 | https://github.com/dora4/dcache-room-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-room-support?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-room-support.svg) | A+ |
 | ORM GreenDao支持包 | https://github.com/dora4/dcache-greendao-support | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dcache-greendao-support?style=social) | ![Release](https://jitpack.io/v/dora4/dcache-greendao-support.svg) | B |
-| DoraView大全（dview） | https://github.com/dora4/dview-template/blob/main/Naming_Convention_Guide.md |  |  | A |
-| DoraView模板 | https://github.com/dora4/dview-template | ![GitHub Repo stars](https://img.shields.io/github/stars/dora4/dview-template?style=social) | ![Release](https://jitpack.io/v/dora4/dview-template.svg) | A- |
+| DoraView大全（dview） | https://github.com/dora4/dview-template/blob/main/Naming_Convention_Guide.md | / | / | A- |
 
 ![](https://github.githubassets.com/images/modules/site/sponsors/pixel-mona-heart.gif)
 
